@@ -20,6 +20,8 @@ Integrates well with dwm, but I don't have patch allowing me to display icons. O
 
 ![simple-wm-hints](assets/simple-wm-hints.png)
 
+
+
 ### Compile and run
 
 ```
