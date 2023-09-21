@@ -22,13 +22,21 @@ Integrates well with dwm, but I don't have patch allowing me to display icons. O
 
 ### window-operations.c
 
-It moves!
-
-https://github.com/piotr-marendowski/xlib/assets/37738748/a5ec9498-ac7a-4f72-ad01-5ef023636934
+It moves around!
 
 ### color-drawing.c
 
 ![color-drawing](assets/color-drawing.png)
+
+### draw-pixmap.c
+
+It needs to be .xbm (I exported it from GIMP)
+
+![draw-pixmap](assets/draw-pixmap.png)
+
+### cursor.c
+
+Changes cursor to icon.xbm
 
 ### Compile and run
 
