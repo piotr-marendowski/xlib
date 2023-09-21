@@ -20,7 +20,11 @@ Integrates well with dwm, but I don't have patch allowing me to display icons. O
 
 ![simple-wm-hints](assets/simple-wm-hints.png)
 
+### window-operations.c
 
+It moves!
+
+https://github.com/piotr-marendowski/xlib/blob/master/assets/window-operations.mkv
 
 ### Compile and run
 
