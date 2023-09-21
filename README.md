@@ -26,6 +26,10 @@ It moves!
 
 https://github.com/piotr-marendowski/xlib/assets/37738748/a5ec9498-ac7a-4f72-ad01-5ef023636934
 
+### color-drawing.c
+
+![color-drawing](assets/color-drawing.png)
+
 ### Compile and run
 
 ```
