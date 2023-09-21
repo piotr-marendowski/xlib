@@ -24,7 +24,7 @@ Integrates well with dwm, but I don't have patch allowing me to display icons. O
 
 It moves!
 
-https://github.com/piotr-marendowski/xlib/blob/master/assets/window-operations.mkv
+https://github.com/piotr-marendowski/xlib/assets/37738748/a5ec9498-ac7a-4f72-ad01-5ef023636934
 
 ### Compile and run
 
